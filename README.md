@@ -1,4 +1,4 @@
-## Olá! Eu sou a Greisson Silva 
+## Olá! Eu sou Greisson Silva 
  <div>
   <a href="https://github.com/greisson182">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=greisson182&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
