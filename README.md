@@ -11,7 +11,7 @@
   <img align="center" alt="Greisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Greisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Greisson-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
-  <img align="center" alt="Greisson-Linux" height="30" width="40" src="https://pt.m.wikipedia.org/wiki/Ficheiro:NewTux.svg">
+  <img align="center" alt="Greisson-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg">
  <img align="center" alt="Greisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
  
