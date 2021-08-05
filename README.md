@@ -13,6 +13,8 @@
   <img align="center" alt="Greisson-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
   <img align="center" alt="Greisson-Linux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg">
  <img align="center" alt="Greisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Greisson-Node JS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+ 
  
  
  
